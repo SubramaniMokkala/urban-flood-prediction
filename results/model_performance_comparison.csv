@@ -1,0 +1,4 @@
+Model,ROC-AUC,Floods Detected,Total Floods,False Alarms,Recall (%)
+Logistic Regression,0.9197647695011492,8,13,128,61.5
+Random Forest,0.8741381641205894,1,13,5,7.7
+XGBoost,0.8898877923482493,0,13,8,0.0
