@@ -174,7 +174,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - NOAA for providing comprehensive climate and storm event data
 - scikit-learn and XGBoost communities for excellent ML libraries
-- ETH Zurich Data Science program for inspiration
 
 ---
 
